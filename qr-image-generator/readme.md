@@ -10,7 +10,7 @@ qr-image
     cd qr-image-generator
 2.install dependencies:
 
-    npm install
+    npm i inquirer qr-image
 
 ### Usage
 
